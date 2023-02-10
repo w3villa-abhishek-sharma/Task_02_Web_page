@@ -41,12 +41,12 @@ header{
     cursor: pointer;
 }
 .header-container .navigation li{
-    margin: auto 19px;
+    margin: auto 24px;
 }
 .header-container .navigation li a {
     text-decoration: none;
     text-transform: uppercase;
-    color: #fff;
+    color: #000;
 }
 
 /* Main Screen 01 */
@@ -99,11 +99,11 @@ header{
 
 /* Side Top Image */
 .side-top-img{
-    width: 800px;
-    height: 800px;
+    width: 900px;
+    height: 900px;
     position: absolute;
-    top: -255px;
-    right: -1px;
+    top: -265px;
+    right: -10px;
     z-index: -1;
 }
 .side-top-img img{
